@@ -7,3 +7,17 @@
 
 <h3 >Förnamn Efternamn</h3>
 
+<style>
+h1{
+  color:bisque
+}
+
+h2{
+  color:blue
+}
+
+h3{
+  color:blueviolet
+}
+</style>
+
