@@ -27,7 +27,3 @@ form{
     grid-template-columns: repeat(2, minmax(200px, 1fr));
 }
 </style>
-
-<p>Don't have an account? <a
-
-    href="/register">Register</a>></p>
