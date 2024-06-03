@@ -19,6 +19,8 @@
 
 
 <svelte:head>
+  <link rel="stylesheet" href="/pico.min.css" />
+
   <style>
     nav {
       margin-left: 10%;
@@ -27,16 +29,6 @@
   </style>
 </svelte:head>
 
-<div class="container">
-  <h1>TODO: Complete assignment</h1>
-  <div class="scrollable">
-    <!-- TODO: loop over the messages and display them -->
-    <article>
-      <span>
-        {chat[0].text}
-      </span>
-    </article>
-  </div>
   <form
     method="post"
     use:enhance={({ form, data, action, cancel }) => {
@@ -50,4 +42,4 @@
   >
     <input type="text" name="text" />
   </form>
-</div>
+

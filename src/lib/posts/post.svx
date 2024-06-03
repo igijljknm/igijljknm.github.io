@@ -1,9 +1,7 @@
 ---
-title: Vecka 1
+title: Inlägg 2
 date: "2024-03-01"
 keywords: ["adding tasks", "gallery"]
 ---
 
-Hello, I am _Post One._
-
-**Nice to meet you!**
+Idag har jag gjort klart login-sidan, där man med lösenord och användarnamn "demo" blir redirected till själva hemsidan. Jag har också gjort mindre buggfixar på själva hemsidan, så att man enkelt kan lägga till saker i "kundvagnen", och sedan ta bort dem därifrån om man vill. Det som återstår nu är att fixa till stylingen mer, och också fixa olika små buggar som kan komma att uppstå.
